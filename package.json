@@ -1,0 +1,15 @@
+{
+  "name": "mapty",
+  "version": "1.0.0",
+  "description": "Fitness log Application",
+  "main": "script.js",
+  "scripts": {
+    "start": "index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Praatibh Das",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.0"
+  }
+}
